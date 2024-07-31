@@ -1,2 +1,2 @@
-# FinHek-s-Premium-Proxy
+# FinHek Premium Proxy
 ask source from finhek :)
